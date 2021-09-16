@@ -6,9 +6,9 @@ https://github.com/Lham71/Working-Memory-Modeling
 To run the program, navigate to the current code directory and 
 enter python main.py at the command line.
  
-It will run a single experiment for the parameters listed below.
+It will run a single experiment for the parameters listed in main.py.
  
-Simply change any of the parameters below if you want to run a 
+Simply change any of the parameters in main.py if you want to run a 
 different experiment.
 
 The code requires that the following files are located in the same 
