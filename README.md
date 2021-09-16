@@ -13,10 +13,10 @@ different experiment.
 
 The code requires that the following files are located in the same 
 location as main.py:
-     1. spm_task.py
-     2. train_force.py
-     3. posthoc_test.py
-     4. allDigCNNMNIST
+1. spm_task.py
+2. train_force.py
+3. posthoc_test.py
+4. allDigCNNMNIST
 
 The code also requires a results folder to save the results.
 
