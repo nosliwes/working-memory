@@ -1,6 +1,6 @@
 # working-memory
 
-The following code is a simple version of the distributed code at 
+The following code is a desktop version of the distributed code at 
 https://github.com/Lham71/Working-Memory-Modeling 
 
 To run the program, navigate to the current code directory and 
